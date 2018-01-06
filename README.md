@@ -9,7 +9,7 @@ The sketch returns the value of integer variable entered in SerialPort.
 
 The two-digit decimal integer number is entered one by one each digit separately.
 
-## Simpliest Arduino functions
+## Simplest Arduino functions
 ![Result](images/Simpliest_Arduino_functions.png)
 
 ## MIT License
