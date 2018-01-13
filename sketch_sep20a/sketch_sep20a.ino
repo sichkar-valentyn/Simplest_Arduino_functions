@@ -36,7 +36,7 @@ void loop() {
   i = i + j;
 
   // Printing the result into the Serial Monitor
-  Serial.println(i*i);
+  Serial.println(i);
   delay(1000);
 }
 
