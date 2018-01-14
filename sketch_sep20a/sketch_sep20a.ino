@@ -4,20 +4,20 @@
 // Environment: Arduino IDE
 //
 // MIT License
-// Copyright (c) 2017 Valentyn N Sichkar
+// Copyright (c) 2018 Valentyn N Sichkar
 // github.com/sichkar-valentyn
 // Reference to:
 // [1] Valentyn N Sichkar. Simplest Arduino functions - reading the two-digit decimal integer number from Serial Port // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Simplest_Arduino_functions (date of access: XX.XX.XXXX)
 
 void setup() {
-  // put your setup code here, to run once:
+  // Putting setup code here, to run once:
   Serial.begin(9600);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
+  // Putting main code here, to run repeatedly:
 
-  // waiting for the first digit to be entered
+  // Waiting for the first digit to be entered
   while (Serial.available() == 0) {}
   
   // Subtracting from the received first symbol 48 to convert from ASCII to integer number
