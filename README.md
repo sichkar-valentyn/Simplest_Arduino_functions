@@ -1,9 +1,6 @@
 # Simplest Arduino functions
 Simplest Arduino functions - reading the two-digit decimal integer number from Serial Port
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Simplest Arduino functions - reading the two-digit decimal integer number from Serial Port // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Simplest_Arduino_functions (date of access: XX.XX.XXXX)
 
